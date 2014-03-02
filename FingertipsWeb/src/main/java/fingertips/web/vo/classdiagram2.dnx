@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<umlnotation:UMLDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_UhkNgJlvEeORp8RZcRCleg" type="Class" name="classdiagram2.dnx">
+  <eAnnotations xmi:id="_UhkNgZlvEeORp8RZcRCleg" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_UhkNgplvEeORp8RZcRCleg" key="com.ibm.xtools.viz.java.webservice.capability" value="1"/>
+    <details xmi:id="_UhkNg5lvEeORp8RZcRCleg" key="com.ibm.xtools.viz.webservice.capabilty" value="1"/>
+    <details xmi:id="_UhkNhJlvEeORp8RZcRCleg" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+  </eAnnotations>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_UpnWQJlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UppygJlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_UppygZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UppygplvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UpqZkJlvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UpqZkZlvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Up0xoJlvEeORp8RZcRCleg" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UrqksJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UrrLwJlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Errors%5Bjcu%5Ename=Errors.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UpnWQZlvEeORp8RZcRCleg" x="40893" y="34553"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_UrrLwZlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UrtA8JlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_UrtA8ZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UrtoAJlvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UrtoAZlvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UrtoAplvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UrtoA5lvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Uru2IJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UrvdMJlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Institutes%5Bjcu%5Ename=Institutes.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UrrLwplvEeORp8RZcRCleg" x="317" y="25677"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_UrvdMZlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UrwEQJlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_UrwEQZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UrwEQplvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UrwrUJlvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UrwrUZlvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UrwrUplvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Urx5cJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Urx5cZlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Questions%5Bjcu%5Ename=Questions.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UrvdMplvEeORp8RZcRCleg" x="33602" y="38674"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_UryggJlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UrzHkJlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_UrzHkZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UrzHkplvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UrzHk5lvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UrzuoJlvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UrzuoZlvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Ur08wJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Ur1j0JlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Standard%5Bjcu%5Ename=Standard.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UryggZlvEeORp8RZcRCleg" x="26628" y="28213"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_Ur1j0ZlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Ur2K4JlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_Ur2K4ZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ur2K4plvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ur2K45lvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ur2x8JlvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Ur2x8ZlvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Ur4AEJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Ur4AEZlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Address%5Bjcu%5Ename=Address.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ur1j0plvEeORp8RZcRCleg" y="41527"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_Ur4AEplvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Ur4nIJlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_Ur4nIZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ur5OMJlvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ur5OMZlvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ur5OMplvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Ur5OM5lvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Ur7DYJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Ur7DYZlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Topic%5Bjcu%5Ename=Topic.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ur4AE5lvEeORp8RZcRCleg" x="34870" y="57694"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_Ur7DYplvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Ur7qcJlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_Ur7qcZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ur8RgJlvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ur8RgZlvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ur8RgplvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Ur8Rg5lvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Ur-GsJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Ur-GsZlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=StudentExamHistory%5Bjcu%5Ename=StudentExamHistory.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ur7DY5lvEeORp8RZcRCleg" x="18386" y="29798"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_Ur-twJlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Ur_U0JlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_Ur_U0ZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ur_U0plvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ur_U05lvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ur_U1JlvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Ur_74JlvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsBKAJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsBKAZlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Section%5Bjcu%5Ename=Section.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ur-twZlvEeORp8RZcRCleg" x="33919" y="28530"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_UsBKAplvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UsBxEJlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_UsBxEZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsBxEplvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsCYIJlvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsCYIZlvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsCYIplvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsDmQJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsDmQZlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Role%5Bjcu%5Ename=Role.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UsBKA5lvEeORp8RZcRCleg" x="12680" y="28530"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_UsDmQplvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UsENUJlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_UsENUZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsENUplvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsENU5lvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsE0YJlvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsE0YZlvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsGCgJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsGCgZlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=UserRegistrationDetails%5Bjcu%5Ename=UserRegistrationDetails.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UsDmQ5lvEeORp8RZcRCleg" x="48818" y="27262"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_UsGCgplvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UsGpkJlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_UsGpkZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsGpkplvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsGpk5lvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsHQoJlvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsHQoZlvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsIewJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsJF0JlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Status%5Bjcu%5Ename=Status.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UsGCg5lvEeORp8RZcRCleg" x="42161" y="22824"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_UsJF0ZlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UsJs4JlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_UsJs4ZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsJs4plvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsJs45lvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsKT8JlvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsKT8ZlvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsLiEJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsLiEZlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=MarksDetails%5Bjcu%5Ename=MarksDetails.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UsJF0plvEeORp8RZcRCleg" x="19654" y="56109"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_UsLiEplvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UsMJIJlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_UsMJIZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsMJIplvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsMJI5lvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsMJJJlvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsMwMJlvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsNXQJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsN-UJlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Chapters%5Bjcu%5Ename=Chapters.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UsLiE5lvEeORp8RZcRCleg" x="28530" y="56743"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_UsN-UZlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UsPMcJlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_UsPMcZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsPzgJlvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsPzgZlvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsPzgplvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsPzg5lvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsRosJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsRosZlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ExamResultDetails%5Bjcu%5Ename=ExamResultDetails.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UsN-UplvEeORp8RZcRCleg" x="19020" y="43112"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_UsSPwJlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UsS20JlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_UsS20ZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsS20plvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsS205lvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsS21JlvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsTd4JlvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsUsAJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsUsAZlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Group%5Bjcu%5Ename=Group.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UsSPwZlvEeORp8RZcRCleg" x="6023" y="27579"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_UsUsAplvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UsVTEJlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_UsVTEZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsVTEplvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsV6IJlvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsV6IZlvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsV6IplvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsYWYJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsYWYZlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Subject%5Bjcu%5Ename=Subject.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UsUsA5lvEeORp8RZcRCleg" x="27579" y="43429"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_UsYWYplvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UsY9cJlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_UsY9cZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsY9cplvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsY9c5lvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsY9dJlvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsY9dZlvEeORp8RZcRCleg" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsbZsplvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UscAwJlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ErrorMessage%5Bjcu%5Ename=ErrorMessage.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UsYWY5lvEeORp8RZcRCleg" x="41527" y="29481"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_UscAwZlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Uscn0JlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_Uscn0ZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Uscn0plvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Uscn05lvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Uscn1JlvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Uscn1ZlvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Usd18JlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsedAJlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UscAwplvEeORp8RZcRCleg" x="12363" y="2536"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_UsedAZlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UsfEEJlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_UsfEEZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsfEEplvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsfEE5lvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UsfEFJlvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsfEFZlvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsgSMJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsgSMZlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Syllabus%5Bjcu%5Ename=Syllabus.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UsedAplvEeORp8RZcRCleg" x="25677" y="9827"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_Usg5QJlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UshgUJlvEeORp8RZcRCleg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_UshgUZlvEeORp8RZcRCleg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UshgUplvEeORp8RZcRCleg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UshgU5lvEeORp8RZcRCleg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_UshgVJlvEeORp8RZcRCleg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UshgVZlvEeORp8RZcRCleg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsjVgJlvEeORp8RZcRCleg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_UsjVgZlvEeORp8RZcRCleg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Exam%5Bjcu%5Ename=Exam.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Usg5QZlvEeORp8RZcRCleg" x="31066"/>
+  </children>
+  <element xsi:nil="true"/>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLX_gJlvEeORp8RZcRCleg" source="_UrrLwZlvEeORp8RZcRCleg" target="_Ur1j0ZlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLZ0sJlvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLZ0splvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLabwJlvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLZ0s5lvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLZ0sZlvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Institutes%5Bjcu%5Ename=Institutes.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Address%5Bjcu%5Ename=Address.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLX_gZlvEeORp8RZcRCleg" points="[40, 105, 40, -5071]$[40, 5176, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVkdUJlvEeORp8RZcRCleg" id="(0.5001323101349563,0.9905277401894452)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVlEYJlvEeORp8RZcRCleg" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLabwZlvEeORp8RZcRCleg" source="_UrvdMZlvEeORp8RZcRCleg" target="_Ur4AEplvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLbC0JlvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLbC0plvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLbC1JlvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLbC05lvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLbC0ZlvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Questions%5Bjcu%5Ename=Questions.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Topic%5Bjcu%5Ename=Topic.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLabwplvEeORp8RZcRCleg" points="[40, 105, 40, -3646]$[40, 3751, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVryEJlvEeORp8RZcRCleg" id="(0.5000810938599578,0.9931640624999996)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVryEZlvEeORp8RZcRCleg" id="(0.5001478311417575,-1.8373630338847035E-15)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLbC1ZlvEeORp8RZcRCleg" source="_UryggJlvEeORp8RZcRCleg" target="_UsUsAplvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLbp4JlvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLbp4plvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLbp5JlvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLbp45lvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLbp4ZlvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Standard%5Bjcu%5Ename=Standard.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Subject%5Bjcu%5Ename=Subject.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLbC1plvEeORp8RZcRCleg" points="[40, 104, -193, -9584]$[40, 3351, -193, -6337]$[259, 3351, 26, -6337]$[259, 9688, 26, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVm5kJlvEeORp8RZcRCleg" id="(0.5001157908016147,0.9820819112627974)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVm5kZlvEeORp8RZcRCleg" id="(0.33353562932525954,-1.241630992181472E-15)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLbp5ZlvEeORp8RZcRCleg" source="_Ur7DYplvEeORp8RZcRCleg" target="_UsN-UZlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLcQ8JlvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLc4AJlvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLdfEZlvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLdfEJlvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLcQ8ZlvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=StudentExamHistory%5Bjcu%5Ename=StudentExamHistory.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ExamResultDetails%5Bjcu%5Ename=ExamResultDetails.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLbp5plvEeORp8RZcRCleg" points="[40, 101, 40, -10771]$[40, 10872, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVu1YJlvEeORp8RZcRCleg" id="(0.5000851345191656,0.9585798816568033)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVu1YZlvEeORp8RZcRCleg" id="(0.500098887534476,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLeGIJlvEeORp8RZcRCleg" source="_Ur-twJlvEeORp8RZcRCleg" target="_UrvdMZlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLeGIplvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLetMJlvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLetMplvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLetMZlvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLeGI5lvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Section%5Bjcu%5Ename=Section.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Questions%5Bjcu%5Ename=Questions.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLeGIZlvEeORp8RZcRCleg" points="[40, 103, 40, -5071]$[40, 5174, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVrLAJlvEeORp8RZcRCleg" id="(0.5001854733642154,0.9805013927576601)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVrLAZlvEeORp8RZcRCleg" id="(0.5000810938599578,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLfUQJlvEeORp8RZcRCleg" source="_UsGCgplvEeORp8RZcRCleg" target="_UsYWYplvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLfUQplvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLfURJlvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLf7UJlvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLfURZlvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLfUQ5lvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Status%5Bjcu%5Ename=Status.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ErrorMessage%5Bjcu%5Ename=ErrorMessage.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLfUQZlvEeORp8RZcRCleg" points="[40, 103, 40, -2221]$[40, 2324, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VTBfoJlvEeORp8RZcRCleg" id="(0.5,0.9763246899661782)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VTCGsJlvEeORp8RZcRCleg" id="(0.5,-3.074694732160001E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLf7UZlvEeORp8RZcRCleg" source="_UsN-UZlvEeORp8RZcRCleg" target="_UsJF0ZlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLf7U5lvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLgiYJlvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLgiYplvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLgiYZlvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLf7VJlvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=ExamResultDetails%5Bjcu%5Ename=ExamResultDetails.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=MarksDetails%5Bjcu%5Ename=MarksDetails.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLf7UplvEeORp8RZcRCleg" points="[40, 104, 40, -6496]$[40, 6600, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVvccJlvEeORp8RZcRCleg" id="(0.500098887534476,0.9845814977973568)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVvccZlvEeORp8RZcRCleg" id="(0.500130989855167,-1.0684225571488144E-15)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLgiY5lvEeORp8RZcRCleg" source="_UsUsAplvEeORp8RZcRCleg" target="_UsLiEplvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLgiZZlvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLhJcJlvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLhJcplvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLhJcZlvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLgiZplvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Subject%5Bjcu%5Ename=Subject.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Chapters%5Bjcu%5Ename=Chapters.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLgiZJlvEeORp8RZcRCleg" points="[40, 104, -212, -7446]$[40, 5488, -212, -2062]$[278, 5488, 26, -2062]$[278, 7550, 26, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVngoJlvEeORp8RZcRCleg" id="(0.5002022959919253,0.9820819112627986)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVoHsJlvEeORp8RZcRCleg" id="(0.33343966262975777,-1.241630992181472E-15)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLhJc5lvEeORp8RZcRCleg" source="_UsYWYplvEeORp8RZcRCleg" target="_UpnWQJlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLhwgJlvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLhwgplvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLhwhJlvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLhwg5lvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLhwgZlvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=ErrorMessage%5Bjcu%5Ename=ErrorMessage.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Errors%5Bjcu%5Ename=Errors.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLhJdJlvEeORp8RZcRCleg" points="[40, 102, 40, -2221]$[40, 2323, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VSjlkJlvEeORp8RZcRCleg" id="(0.5,0.9645030425963489)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VS6K4JlvEeORp8RZcRCleg" id="(0.5,-3.1318688077580174E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLhwhZlvEeORp8RZcRCleg" source="_UscAwZlvEeORp8RZcRCleg" target="_UrrLwZlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLiXkJlvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLiXkplvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLiXlJlvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLiXk5lvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLiXkZlvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Institutes%5Bjcu%5Ename=Institutes.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLhwhplvEeORp8RZcRCleg" points="[13, 105, 11289, -4834]$[13, 3352, 11289, -1587]$[-11236, 3352, 40, -1587]$[-11236, 4939, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVlrcJlvEeORp8RZcRCleg" id="(0.16674735915492922,0.9942339373970346)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVlrcZlvEeORp8RZcRCleg" id="(0.5001323101349563,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLiXlZlvEeORp8RZcRCleg" source="_UscAwZlvEeORp8RZcRCleg" target="_UryggJlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLi-oJlvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLi-oplvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLi-pJlvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLi-o5lvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLi-oZlvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Standard%5Bjcu%5Ename=Standard.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLiXlplvEeORp8RZcRCleg" points="[66, 105, -10937, -7446]$[66, 3881, -10937, -3670]$[11023, 3881, 20, -3670]$[11023, 7551, 20, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVmSgJlvEeORp8RZcRCleg" id="(0.8334141568158946,0.9942339373970346)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVmSgZlvEeORp8RZcRCleg" id="(0.2501157908016148,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLi-pZlvEeORp8RZcRCleg" source="_UscAwZlvEeORp8RZcRCleg" target="_Ur7DYplvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLjlsJlvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLjlsplvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLjltJlvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLjls5lvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLjlsZlvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=StudentExamHistory%5Bjcu%5Ename=StudentExamHistory.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLi-pplvEeORp8RZcRCleg" points="[52, 105, -5593, -9109]$[52, 4410, -5593, -4804]$[5685, 4410, 40, -4804]$[5685, 9214, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVuOUJlvEeORp8RZcRCleg" id="(0.6667475556463779,0.9942339373970346)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVuOUZlvEeORp8RZcRCleg" id="(0.5000851345191656,-1.4351001211407151E-15)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLjltZlvEeORp8RZcRCleg" source="_UscAwZlvEeORp8RZcRCleg" target="_UsBKAplvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLkMwJlvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLkMwplvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLkMxJlvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLkMw5lvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLkMwZlvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Role%5Bjcu%5Ename=Role.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLjltplvEeORp8RZcRCleg" points="[40, 105, 564, -7684]$[40, 4410, 564, -3379]$[-484, 4410, 40, -3379]$[-484, 7789, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVwDgJlvEeORp8RZcRCleg" id="(0.5000809544768609,0.9942339373970346)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVwqkJlvEeORp8RZcRCleg" id="(0.5001309898551666,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLkz0JlvEeORp8RZcRCleg" source="_UscAwZlvEeORp8RZcRCleg" target="_UsSPwJlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLkz0plvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLkz1JlvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLkz1plvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLkz1ZlvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLkz05lvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Group%5Bjcu%5Ename=Group.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLkz0ZlvEeORp8RZcRCleg" points="[27, 105, 5940, -6971]$[27, 3881, 5940, -3195]$[-5873, 3881, 40, -3195]$[-5873, 7076, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVwqkZlvEeORp8RZcRCleg" id="(0.33341415681589537,0.9942339373970346)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVxRoJlvEeORp8RZcRCleg" id="(0.5001157908016147,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLmB8JlvEeORp8RZcRCleg" source="_UsedAZlvEeORp8RZcRCleg" target="_UryggJlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLmB8plvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLmpAJlvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLmpAplvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLmpAZlvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLmB85lvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Syllabus%5Bjcu%5Ename=Syllabus.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Standard%5Bjcu%5Ename=Standard.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLmB8ZlvEeORp8RZcRCleg" points="[40, 103, -1281, -14571]$[40, 10475, -1281, -4199]$[1361, 10475, 40, -4199]$[1361, 14674, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVtAMZlvEeORp8RZcRCleg" id="(0.5000521827290064,0.9734848484848481)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVtnQJlvEeORp8RZcRCleg" id="(0.5001157908016147,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLmpA5lvEeORp8RZcRCleg" source="_Usg5QJlvEeORp8RZcRCleg" target="_UsLiEplvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLnQEJlvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLnQEplvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLnQFJlvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLnQE5lvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLnQEZlvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Exam%5Bjcu%5Ename=Exam.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Chapters%5Bjcu%5Ename=Chapters.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLmpBJlvEeORp8RZcRCleg" points="[47, 105, 2527, -33373]$[47, 1797, 2527, -31681]$[-673, 1797, 1807, -31681]$[-673, 31416, 1807, -2062]$[-2427, 31416, 53, -2062]$[-2427, 33478, 53, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVouwJlvEeORp8RZcRCleg" id="(0.6000364331280247,0.9955195220823553)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVouwZlvEeORp8RZcRCleg" id="(0.6667729959630903,-1.241630992181472E-15)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLnQFZlvEeORp8RZcRCleg" source="_Usg5QJlvEeORp8RZcRCleg" target="_UryggJlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLn3IJlvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLn3IplvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLn3JJlvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLn3I5lvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLn3IZlvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Exam%5Bjcu%5Ename=Exam.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Standard%5Bjcu%5Ename=Standard.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLnQFplvEeORp8RZcRCleg" points="[16, 105, 2257, -4833]$[16, 739, 2257, -4199]$[-2182, 739, 59, -4199]$[-2182, 4938, 59, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVpV0JlvEeORp8RZcRCleg" id="(0.20003591756489222,0.9955195220823553)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVp84JlvEeORp8RZcRCleg" id="(0.7501157908016147,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLn3JZlvEeORp8RZcRCleg" source="_Usg5QJlvEeORp8RZcRCleg" target="_Ur-twJlvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLoeMJlvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLoeMplvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLpFQZlvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLpFQJlvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLoeMZlvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Exam%5Bjcu%5Ename=Exam.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Section%5Bjcu%5Ename=Section.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLn3JplvEeORp8RZcRCleg" points="[63, 105, -1702, -5071]$[63, 739, -1702, -4437]$[1805, 739, 40, -4437]$[1805, 5176, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVp84ZlvEeORp8RZcRCleg" id="(0.8000362612736471,0.9955195220823553)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVqj8JlvEeORp8RZcRCleg" id="(0.5001854733642154,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VLpFQplvEeORp8RZcRCleg" source="_Usg5QJlvEeORp8RZcRCleg" target="_UsUsAplvEeORp8RZcRCleg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VLpsUJlvEeORp8RZcRCleg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLpsUplvEeORp8RZcRCleg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLpsVJlvEeORp8RZcRCleg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_VLpsU5lvEeORp8RZcRCleg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLpsUZlvEeORp8RZcRCleg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Exam%5Bjcu%5Ename=Exam.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Subject%5Bjcu%5Ename=Subject.java%5Bjpack%5Ename=fingertips.web.vo%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FingertipsWebApp%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VLpFQ5lvEeORp8RZcRCleg" points="[32, 105, 2578, -20172]$[32, 1268, 2578, -19009]$[-1457, 1268, 1089, -19009]$[-1457, 13940, 1089, -6337]$[-2494, 13940, 52, -6337]$[-2494, 20277, 52, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVsZIJlvEeORp8RZcRCleg" id="(0.40003574571051315,0.9955195220823553)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VVtAMJlvEeORp8RZcRCleg" id="(0.666868962658592,-1.241630992181472E-15)"/>
+  </edges>
+</umlnotation:UMLDiagram>

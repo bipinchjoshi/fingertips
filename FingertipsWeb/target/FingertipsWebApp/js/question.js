@@ -1,0 +1,3 @@
+function submitOnNext(){
+	alert("hihi");
+}
