@@ -8,6 +8,8 @@
 	<name>admin Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
+	
+	
 	<properties>
 		<spring.version>4.0.1.RELEASE</spring.version>
 		<jdk.version>1.6</jdk.version>
